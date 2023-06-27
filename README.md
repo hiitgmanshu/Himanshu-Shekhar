@@ -14,8 +14,7 @@ I'm very passionate about web development. I have a decent knowledge of DSA and 
 ![Himanshu Shekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiitgmanshu&show_icons=true&count_private=true&theme=radical)
 
 ## Languages Used
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiitgmanshu&layout=compact&hide=html&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiitgmanshu&layout=compact&theme=radical)
 
 ## Connect with Me
 - Portfolio: [hiitgmanshu.github.io/Capstone-project/](https://hiitgmanshu.github.io/Capstone-project)
