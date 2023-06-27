@@ -12,9 +12,9 @@ I'm very passionate about web development. I have a decent knowledge of DSA and 
 
 ## GitHub Stats and Languages Used
 
-| GitHub Stats                                                                               | Languages Used                                      |
-|--------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| ![Himanshu Shekhar's Github Stats](https://github-readme-stats.vercel.app/api?username=hiitgmanshu&show_icons=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiitgmanshu&layout=compact&hide=html&theme=radical) |
+| GitHub Stats                                                                                | Languages Used                                      |
+
+| ![Himanshu Shekhar's Github Stats](https://github-readme-stats.vercel.app/api?username=hiitgmanshu&show_icons=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiitgmanshu&layout=compact&theme=radical) |
 
 
 ## Connect with Me
