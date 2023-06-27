@@ -13,11 +13,15 @@ I'm very passionate about web development. I have a decent knowledge of DSA and 
 ## GitHub Stats
 ![Himanshu Shekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiitgmanshu&show_icons=true&count_private=true&theme=radical)
 
+## Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiitgmanshu&layout=compact&hide=html&theme=radical)
+
 ## Connect with Me
 - Portfolio: [hiitgmanshu.github.io/Capstone-project/](https://hiitgmanshu.github.io/Capstone-project)
 - LinkedIn: [linkedin.com/in/h-shekhar2105/](https://linkedin.com/in/h-shekhar2105)
 - Twitter: [@Himansh52472191](https://twitter.com/Himansh52472191)
-- Email: your-himanshushekhar44578@gmail.com
+- Email: himanshushekhar44578@gmail.com
 
 Feel free to reach out to me for any kind of collaboration or any help with my repository.
 
