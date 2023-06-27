@@ -10,17 +10,12 @@ I'm very passionate about web development. I have a decent knowledge of DSA and 
 - Database technologies like **MongoDB, MySQL**
 - Touch typing speed of **70 WPM**
 
-<div align="center">
-  <div style="display: inline-block; vertical-align: top;">  
-  ## GitHub Stats  
-  ![Himanshu Shekhar's Github Stats](https://github-readme-stats.vercel.app/api?username=hiitgmanshu&show_icons=true&count_private=true&theme=radical)  
-  </div>
-  
-  <div style="display: inline-block; vertical-align: top;">  
-  ## Languages Used  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiitgmanshu&layout=compact&hide=html&theme=radical)  
-  </div>
-</div>
+## GitHub Stats and Languages Used
+
+| GitHub Stats                                                                               | Languages Used                                      |
+|--------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| ![Himanshu Shekhar's Github Stats](https://github-readme-stats.vercel.app/api?username=hiitgmanshu&show_icons=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiitgmanshu&layout=compact&hide=html&theme=radical) |
+
 
 ## Connect with Me
 - Portfolio: **hiitgmanshu.github.io/Capstone-project**(https://hiitgmanshu.github.io/Capstone-project)
