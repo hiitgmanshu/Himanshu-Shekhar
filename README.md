@@ -1,7 +1,7 @@
 # Hello, I'm [Himanshu Shekhar] 👋
 
 ## About Me
-I'm very passionate about web development. I have decent knowledge of DSA and coding. I specialize in [front-end-development] using HTML, CSS, Javascript (also jQuery framework), React.js and also have knowledge of [back-end-development] using Express.js with Node.js, API.
+I'm very passionate about web development. I have a decent knowledge of DSA and coding. I specialize in [front-end-development] using HTML, CSS, Javascript (also jQuery framework), and React.js and also have knowledge of [back-end-development] using Express.js with Node.js, and API.
 
 ## Skills
 - HTML5, CSS3, JavaScript
@@ -11,7 +11,7 @@ I'm very passionate about web development. I have decent knowledge of DSA and co
 - [Touch typing speed of 70 WPM]
 
 ## GitHub Stats
-![Himanshu Shekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?hiitgmanshu=your-username&show_icons=true&count_private=true&theme=radical)
+![Himanshu Shekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiitgmanshu&show_icons=true&count_private=true&theme=radical)
 
 ## Connect with Me
 - Portfolio: [hiitgmanshu.github.io/Capstone-project/](https://hiitgmanshu.github.io/Capstone-project)
