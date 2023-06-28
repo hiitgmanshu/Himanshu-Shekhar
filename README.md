@@ -1,10 +1,10 @@
-# Hello, I'm [Himanshu Shekhar] 👋
+# Hello, I'm Himanshu Shekhar 👋
 
 ## About Me
-I'm very passionate about web development. I have a decent knowledge of DSA and coding. I specialize in **front-end-development** using HTML, CSS, Javascript (also jQuery framework), and React.js and also have knowledge of **back-end-development** using Express.js with Node.js, and API.
+I'm very passionate about web development🧑‍💻. I have a decent knowledge of DSA and coding. I specialize in **front-end-development** using HTML, CSS, Javascript (also jQuery framework), and React.js and also have knowledge of **back-end-development** using Express.js with Node.js, and API.
 
 ## Skills
-- HTML5, CSS3, JavaScript
+- **HTML5, CSS3, JavaScript**
 - Additional front-end technologies like **jQuery, React.js, Bootstrap**
 - Back-end technologies like **Node.js, Express.js, API**
 - Database technologies like **MongoDB, MySQL**
@@ -23,5 +23,5 @@ I'm very passionate about web development. I have a decent knowledge of DSA and 
 - Twitter: **@Himansh52472191**(https://twitter.com/Himansh52472191)
 - Email: himanshushekhar44578@gmail.com
 
-Feel free to reach out to me for any kind of collaboration or any help with my repository.
+🍵 Feel free to reach out to me for any kind of collaboration or any help with my repository.
 
