@@ -19,8 +19,8 @@ I'm very passionate about web development🧑‍💻. I have a decent knowledge 
 
 ## Connect with Me
 - Portfolio: **My Portfolio**(https://hshekhar.netlify.app/)
-- LinkedIn: **linkedin.com/in/h-shekhar2105**(https://linkedin.com/in/h-shekhar2105)
-- Twitter: **@Himansh52472191**(https://twitter.com/Himansh52472191)
+- LinkedIn: **h-shekhar2105**(https://linkedin.com/in/h-shekhar2105)
+- Twitter: **h_shekhar2105**(https://twitter.com/h_shekhar2105)
 - Email: himanshushekhar44578@gmail.com
 
 🍵 Feel free to reach out to me for any kind of collaboration or any help with my repository.
