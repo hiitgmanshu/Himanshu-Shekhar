@@ -18,7 +18,7 @@ I'm very passionate about web development🧑‍💻. I have a decent knowledge 
 
 
 ## Connect with Me
-- Portfolio: **hiitgmanshu.github.io/Capstone-project**(https://hiitgmanshu.github.io/Capstone-project)
+- Portfolio: **My Portfolio**(https://hshekhar.netlify.app/)
 - LinkedIn: **linkedin.com/in/h-shekhar2105**(https://linkedin.com/in/h-shekhar2105)
 - Twitter: **@Himansh52472191**(https://twitter.com/Himansh52472191)
 - Email: himanshushekhar44578@gmail.com
